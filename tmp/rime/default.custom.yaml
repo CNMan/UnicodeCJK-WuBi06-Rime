@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+patch:
+  schema_list:
+    - {schema: unicodecjk_wubi06}
+
+  menu:
+    page_size: 10 #選單每䈎顯示個數
